@@ -1,5 +1,3 @@
-# Case Study 2
-
 ## Install instructions
 
 ### Create an Amazon Web Services (AWS) account
@@ -130,5 +128,4 @@ d. Run the Inference Pipeline `inference_pipeline.py` to get the final output
 ![alt text](https://github.com/siddhant07/CaseStudy2/blob/master/Images/Final_outout.png)
 
 5. Celebrate with drinks, but only soft drinks, remember kids, alcohol kills brain cells
-# Dockerize-Sentiment-Analysis-Model-using-Metaflow-Data-Pipeline-
-# Dockerize-Sentiment-Analysis-Model-using-Metaflow-Data-Pipeline-
+
